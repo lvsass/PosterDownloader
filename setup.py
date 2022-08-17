@@ -22,4 +22,5 @@ setup(  name = 'Poster Downloader',
 		author_email = 'federicodelmazo@hotmail.com',
 		url = 'https://github.com/FdelMazo/PosterDownloader/',
 		install_requires = ['lxml', 'bs4', 'requests'],
+        	py_modules=[],
 )
